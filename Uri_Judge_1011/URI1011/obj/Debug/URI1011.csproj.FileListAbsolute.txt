@@ -1,0 +1,7 @@
+D:\URI1011\URI1011\bin\Debug\URI1011.exe.config
+D:\URI1011\URI1011\bin\Debug\URI1011.exe
+D:\URI1011\URI1011\bin\Debug\URI1011.pdb
+D:\URI1011\URI1011\obj\Debug\URI1011.csproj.AssemblyReference.cache
+D:\URI1011\URI1011\obj\Debug\URI1011.csproj.CoreCompileInputs.cache
+D:\URI1011\URI1011\obj\Debug\URI1011.exe
+D:\URI1011\URI1011\obj\Debug\URI1011.pdb
