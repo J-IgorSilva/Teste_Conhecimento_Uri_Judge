@@ -1,0 +1,7 @@
+D:\URI 1012\URI 1012\obj\Debug\URI 1012.csproj.AssemblyReference.cache
+D:\URI 1012\URI 1012\obj\Debug\URI 1012.csproj.CoreCompileInputs.cache
+D:\URI 1012\URI 1012\bin\Debug\URI 1012.exe.config
+D:\URI 1012\URI 1012\bin\Debug\URI 1012.exe
+D:\URI 1012\URI 1012\bin\Debug\URI 1012.pdb
+D:\URI 1012\URI 1012\obj\Debug\URI 1012.exe
+D:\URI 1012\URI 1012\obj\Debug\URI 1012.pdb
