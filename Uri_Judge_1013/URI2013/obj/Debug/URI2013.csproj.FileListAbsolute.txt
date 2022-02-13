@@ -1,0 +1,7 @@
+D:\URI2013\URI2013\bin\Debug\URI2013.exe.config
+D:\URI2013\URI2013\bin\Debug\URI2013.exe
+D:\URI2013\URI2013\bin\Debug\URI2013.pdb
+D:\URI2013\URI2013\obj\Debug\URI2013.csproj.AssemblyReference.cache
+D:\URI2013\URI2013\obj\Debug\URI2013.csproj.CoreCompileInputs.cache
+D:\URI2013\URI2013\obj\Debug\URI2013.exe
+D:\URI2013\URI2013\obj\Debug\URI2013.pdb
