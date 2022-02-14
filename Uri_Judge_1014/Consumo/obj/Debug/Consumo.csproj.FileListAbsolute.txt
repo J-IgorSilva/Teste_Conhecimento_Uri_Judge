@@ -1,0 +1,7 @@
+D:\Consumo\Consumo\bin\Debug\Consumo.exe.config
+D:\Consumo\Consumo\bin\Debug\Consumo.exe
+D:\Consumo\Consumo\bin\Debug\Consumo.pdb
+D:\Consumo\Consumo\obj\Debug\Consumo.csproj.AssemblyReference.cache
+D:\Consumo\Consumo\obj\Debug\Consumo.csproj.CoreCompileInputs.cache
+D:\Consumo\Consumo\obj\Debug\Consumo.exe
+D:\Consumo\Consumo\obj\Debug\Consumo.pdb
