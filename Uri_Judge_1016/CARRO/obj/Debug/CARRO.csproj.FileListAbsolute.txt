@@ -1,0 +1,7 @@
+D:\CARRO\CARRO\bin\Debug\CARRO.exe.config
+D:\CARRO\CARRO\bin\Debug\CARRO.exe
+D:\CARRO\CARRO\bin\Debug\CARRO.pdb
+D:\CARRO\CARRO\obj\Debug\CARRO.csproj.AssemblyReference.cache
+D:\CARRO\CARRO\obj\Debug\CARRO.csproj.CoreCompileInputs.cache
+D:\CARRO\CARRO\obj\Debug\CARRO.exe
+D:\CARRO\CARRO\obj\Debug\CARRO.pdb
